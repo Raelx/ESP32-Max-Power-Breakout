@@ -6,7 +6,7 @@ Breakout board for 30pin ESP 32 (1" spacing) with +10 additional power and groun
 
 Every time I have used a screw terminal breakout board I have also needed a bunch of terminals for power and ground. Adding a mechanical switch? You need a ground pin. Adding any random module? You need power and ground. Adding some LEDs? You need power and ground.
 
-So this board will give you an additional 10 power terminals and 10 ground terminals. Even better the power pins are split into two bank (VA and VB) and using the jumpers you can make these 5V or 3.3V depending on your needs. All this in a footprint smaller than most other breakout boards available.
+So this board will give you an additional 10 power terminals and 10 ground terminals. Even better the power pins are split into two bank (VA and VB) and using the jumpers you can independently make these 5V or 3.3V depending on your needs. All this in a footprint smaller than most other breakout boards available.
 
 Gerber files ready for [JLC](https://jlcpcb.com/) can be found in the Releases section on the right.
 
